@@ -179,21 +179,6 @@ df_clean.to_csv("cleaned_military_bases.csv", index=False)
 
 ---
 
-## 🧾 File Structure
-
-```
-military-bases-capstone/
-├── data/
-│   └── cleaned_military_bases.csv
-├── notebooks/
-│   └── military_bases.ipynb
-├── PowerBI/
-│   └── dashboard.pbix
-├── presentation/
-│   └── slides.pptx
-└── README.md
-```
-
 ---
 
 ## 📢 Final Remarks
