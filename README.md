@@ -161,7 +161,7 @@ df_clean.to_csv("cleaned_military_bases.csv", index=False)
 
 ### 🟥 Page 3: Drilldown by State & Component
 - **Matrix Table**: State × Component base counts
-- **Bar Chart**: Top 10 states by base count
+- **Bar Chart**: Base count
 - **Slicers**: For component and status
 - **Drillthrough Page**: Base details per selected state
 
@@ -171,10 +171,8 @@ df_clean.to_csv("cleaned_military_bases.csv", index=False)
 
 | Feature             | Description |
 |---------------------|-------------|
-| 🔍 AI Visual         | Smart Narrative to auto-generate text summaries |
 | 🎯 Cluster Labeling  | DAX calculated column to explain cluster groups |
 | 🗺 Custom Tooltips   | Visuals include interactive custom hover tooltips |
-| 🔄 Drillthrough      | Detailed drilldown page by state |
 | 🎨 Theming           | Custom color scheme aligned with U.S. military colors |
 
 ---
